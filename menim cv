@@ -1,1 +1,147 @@
+<!DOCTYPE html>
+<html lang="az">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Günəş Məmmədova - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 900px;
+            margin: 30px auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #4a90e2;
+            padding-bottom: 20px;
+            margin-bottom: 25px;
+        }
+
+        .header h1 {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 36px;
+        }
+
+        .header p {
+            margin: 8px 0;
+            font-size: 16px;
+        }
+
+        h2 {
+            color: #4a90e2;
+            border-left: 5px solid #4a90e2;
+            padding-left: 10px;
+            margin-top: 25px;
+        }
+
+        p,
+        li {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #777;
+        }
+
+        .skills span {
+            display: inline-block;
+            background-color: #eaf3ff;
+            color: #2c3e50;
+            padding: 8px 12px;
+            margin: 5px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="header"> 
+            <h1>Günəş Məmmədova</h1>
+            <p><b>Telefon:</b> +994 XX XXX XX XX</p>
+            <p><b>Email:</b> example@gmail.com</p>
+            <p><b>Ünvan:</b> Azərbaycan</p>
+        </div>
+
+        <div class="section">
+            <h2>Haqqımda</h2>
+            <p>
+                Məsuliyyətli, öyrənməyə həvəsli və inkişaf etməyə açıq biriyəm.
+                Komandada işləməyi sevirəm və yeni biliklər qazanmağa həmişə hazıram.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Təhsil</h2>
+            <ul>
+                <li><b>Bakalavr:</b> Məktəbəqədər Təhsil</li>
+                <li><b>Magistr:</b> (Marketinq)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Bacarıqlar</h2>
+            <div class="skills">
+                <span>HTML əsasları</span>
+                <span>Komandada işləmək</span>
+                <span>Ünsiyyət bacarığı</span>
+                <span>Məsuliyyətlilik</span>
+                <span>Öyrənməyə həvəs</span>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Dil bilikləri</h2>
+            <ul>
+                <li>Azərbaycan dili</li>
+                <li>Türk dili</li>
+                <li>İngilis dili</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>İş təcrübəsi</h2>
+            <p>
+                Hazırda rəsmi iş təcrübəm yoxdur, lakin öyrənməyə, inkişaf etməyə və iş mühitinə uyğunlaşmağa hazıram.
+            </p>
+        </div>
+
+        <div class="footer">
+            Hazırlayan: Günəş Məmmədova
+        </div>
+
+    </div>
+
+</body>
+
+</html>
